@@ -1,0 +1,250 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100&display=swap'); */
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@200&display=swap');
+
+#sidebar{
+    width: 30%;
+	height: 120vh;
+	padding-left: 140px;
+	background-color: white;
+	color: black;
+}
+
+.font{
+   font-size: 20px;
+}
+
+.ach{
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: 500;
+    color: black;
+}
+
+.button1{
+    background-color: rgb(44, 122, 160);
+    color: white;
+    border-radius: 25px;
+    border: solid 1px white;
+    width: 200px;
+    height: 7vh;
+    font-size: 18px;
+    font-weight: 600;
+}
+
+.hove:hover{
+    background-color: rgb(214, 201, 201);
+    border-radius: 20px;
+}
+/* Hovers */
+.button1:hover{
+    background-color: rgb(40, 107, 189);
+}
+
+.button2:hover{
+    background-color: rgb(40, 107, 189);
+}
+
+.trendLink:hover{
+    background-color: rgb(214, 201, 201);
+}
+
+.showMore:hover{
+    background-color: rgb(214, 201, 201);
+}
+
+.p4:hover{
+    text-decoration: underline;
+}
+
+.p7:hover{
+    background-color: rgb(214, 201, 201);
+}
+
+.img1{
+    width: 50px;
+    height: 4vh;
+    margin-top: 30px;
+    padding-left: 10px;
+}
+
+#sidebar a{
+    margin: 20px;
+}
+
+.hove{
+    padding-left: 10px;  
+}
+
+.thinLine{
+    width: 1px;
+    height: 250vh;
+    background-color: rgb(212, 205, 205);   
+}
+
+.flexdiv{
+    display: flex;
+}
+
+.middlediv{
+    width: 40%;
+    height: 120vh;
+    background-color: white;
+}
+
+.thinLine2{
+    width: 1px;
+    height: 250vh;
+    background-color: rgb(212, 205, 205);
+}
+
+.endDiv{
+    width: 33%;
+    height: 120vh;
+    background-color: white;
+}
+
+.searchBox{
+    width: 400px;
+    height: 6vh;
+    border: solid 1px white;
+    background-color: whitesmoke;
+    border-radius: 20px;
+    padding-left: 30px;
+    font-size: 15px;
+    
+}
+
+.inputdiv{
+    padding: 10px;
+}
+
+#input-font{
+    color: grey;
+    /* padding-left: 30px; */
+    margin-top: 15px;
+}
+
+.getVerified{
+    width: 400px;
+    height: 20vh;
+    background-color: whitesmoke;
+    margin-left: 25px;
+    border-radius: 20px;
+}
+
+.p1{
+    font-weight: 700;
+    font-size: 23px;
+    /* padding: 5px; */
+}
+
+.p2{
+    font-weight: 600;
+    /* padding-top: -20px; */
+    /* padding: 5px; */
+}
+
+.button2{
+    background-color: black;
+    color: white;
+    border: solid 1px white;
+    border-radius: 30px;
+    font-size: 15px;
+    font-weight: 600;
+    height: 5vh;
+    width: 150px;
+    padding: 5px;
+}
+
+.trends{
+    width: 400px;
+    height: 150vh;
+    background-color: whitesmoke;
+    margin-left: 25px;
+    border-radius: 20px;
+}
+
+.p3{
+    font-weight: 700;
+    font-size: 23px;
+    padding-left: 5px;
+    /* padding: 7px; */
+}
+
+.trendLink{
+    text-decoration: none;
+    color: black;
+    font-size: 18px;
+    font-weight: 600;
+    /* padding-left: 7px; */
+    /* margin-top: -20px; */
+}
+
+.p4{
+    font-size: 15px;
+    font-weight: 200;
+    color: rgb(80, 77, 77);
+    text-decoration: none;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.p5{
+    font-size: 15px;
+    font-weight: 200;
+    color: rgb(80, 77, 77);
+    font-family: 'Montserrat', sans-serif;
+}
+
+.showMore{
+    text-decoration: none;
+    font-size: 20px;
+    padding-left: 5px;
+}
+
+.whoTofollow{
+    width: 400px;
+    height: 30vh;
+    background-color: whitesmoke;
+    margin-left: 25px;
+    border-radius: 20px;
+}
+
+.p6{
+    font-weight: 700;
+    font-size: 23px;
+    padding-left: 5px;
+    padding-top: 5px;
+}
+
+.linksBelow{
+    padding-left: 35px;
+}
+
+.home{
+    height: 6vh;
+    width: 100%;
+    background-color: white;
+}
+
+.p7{
+     color: rgb(80, 77, 77);
+     font-size: 18px;
+     font-weight: 600;
+     justify-content: center;
+}
+
+.middleflexDiv{
+    display: flex;
+    justify-content: space-evenly;
+}
+.flexdiv1{
+    width: 40%;
+    background-color: inherit;
+    height: 4vh;
+}
+
+.flexdiv2{
+    width: 40%;
+    background-color: inherit;
+    height: 4vh;
+}
