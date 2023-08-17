@@ -248,3 +248,38 @@
     background-color: inherit;
     height: 4vh;
 }
+
+.whatsHappening{
+    height: 15vh;
+    width: 100%;
+    background-color: white;
+}
+
+.user{
+    font-size: 35px;
+    padding-top: 5px;
+    padding-left: 5px;
+    color: rgb(88, 86, 86);
+}
+
+.p8{
+    font-size: 25px;
+    color: rgb(88, 86, 86);
+    padding-left: 45px;
+}
+
+.flexWhatshappening{
+    display: flex;
+}
+
+.iconsFlex{
+    width: 150px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.icons{
+    color: rgb(6, 174, 240);
+    font-size: 15px;
+    font-weight: 800;
+}
